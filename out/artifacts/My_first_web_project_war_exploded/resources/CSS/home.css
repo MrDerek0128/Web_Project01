@@ -1,0 +1,12 @@
+.div3 {
+    width: 1519px;
+    height: 700px;
+    background-image: url(../pics/pic3.jpg);
+    background-size: 100% 100%;
+}
+
+.div4 {
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+}

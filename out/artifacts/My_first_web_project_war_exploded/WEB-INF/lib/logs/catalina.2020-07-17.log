@@ -1,0 +1,51 @@
+17-Jul-2020 00:21:36.963 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:        Apache Tomcat/9.0.22
+17-Jul-2020 00:21:36.971 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.构建:          Jul 4 2019 14:20:06 UTC
+17-Jul-2020 00:21:36.971 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.22.0
+17-Jul-2020 00:21:36.971 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+17-Jul-2020 00:21:36.971 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:            10.0
+17-Jul-2020 00:21:36.971 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 结.造:          amd64
+17-Jul-2020 00:21:36.972 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:             D:\JDK\jdk-11.0.7
+17-Jul-2020 00:21:36.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:           11.0.7+8-LTS
+17-Jul-2020 00:21:36.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+17-Jul-2020 00:21:36.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22
+17-Jul-2020 00:21:36.977 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22
+17-Jul-2020 00:21:36.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-Jul-2020 00:21:36.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-Jul-2020 00:21:36.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-Jul-2020 00:21:36.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\conf\logging.properties
+17-Jul-2020 00:21:36.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Jul-2020 00:21:36.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Jul-2020 00:21:36.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Jul-2020 00:21:36.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+17-Jul-2020 00:21:36.991 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22
+17-Jul-2020 00:21:36.991 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22
+17-Jul-2020 00:21:36.992 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\temp
+17-Jul-2020 00:21:36.992 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+17-Jul-2020 00:21:36.992 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+17-Jul-2020 00:21:36.993 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Jul-2020 00:21:36.998 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+17-Jul-2020 00:21:37.246 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+17-Jul-2020 00:21:37.694 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["ajp-nio-8009"]
+17-Jul-2020 00:21:37.700 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[969]毫秒内初始化
+17-Jul-2020 00:21:37.749 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Jul-2020 00:21:37.749 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.22]
+17-Jul-2020 00:21:37.760 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\docs]
+17-Jul-2020 00:21:38.094 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+17-Jul-2020 00:21:38.527 警告 [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [390] milliseconds.
+17-Jul-2020 00:21:38.548 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\docs] has finished in [789] ms
+17-Jul-2020 00:21:38.549 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\examples]
+17-Jul-2020 00:21:38.915 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+17-Jul-2020 00:21:38.958 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\examples] has finished in [410] ms
+17-Jul-2020 00:21:38.959 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\host-manager]
+17-Jul-2020 00:21:39.108 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+17-Jul-2020 00:21:39.123 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\host-manager] has finished in [163] ms
+17-Jul-2020 00:21:39.123 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\manager]
+17-Jul-2020 00:21:39.266 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+17-Jul-2020 00:21:39.275 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\manager] has finished in [151] ms
+17-Jul-2020 00:21:39.275 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\ROOT]
+17-Jul-2020 00:21:39.388 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+17-Jul-2020 00:21:39.397 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\tomcat\apache-tomcat-9.0.22-windows-x64\apache-tomcat-9.0.22\webapps\ROOT] has finished in [122] ms
+17-Jul-2020 00:21:39.401 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+17-Jul-2020 00:21:39.410 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["ajp-nio-8009"]
+17-Jul-2020 00:21:39.416 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [1,715] milliseconds
+17-Jul-2020 00:22:54.450 严重 [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005] (base port [8005] and offset [0]). Tomcat may not be running.

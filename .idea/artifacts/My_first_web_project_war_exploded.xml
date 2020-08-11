@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="My-first-web-project:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/My_first_web_project_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="My-first-web-project/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="My-first-web-project" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="apache-tomcat-9.0" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="standard" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
